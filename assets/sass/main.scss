@@ -1587,6 +1587,7 @@
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+        background-image: url('images/Background.png');
 
 		h2 {
 			@include vendor('transform', 'scale(1)');
